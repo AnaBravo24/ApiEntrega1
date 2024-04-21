@@ -1,0 +1,31 @@
+[
+    {
+        "placa": "XYZ123",
+        "marca": "HONDA",
+        "modelo": "CBR1000RR"
+    },
+
+    {
+        "placa": "ABC456",
+        "marca": "YAMAHA",
+        "modelo": "YZF-R1"
+    },
+
+    {
+        "placa": "DEF789",
+        "marca": "Kawasaki",
+        "modelo": "Ninja ZX-10R"
+    },
+
+    {
+        "placa": "GHI012",
+        "marca": "Ducati",
+        "modelo": "Paniagle V4"
+    },
+
+    {
+        "placa": "JKL3456",
+        "marca": "BMW",
+        "modelo": "S1000RR"
+    }
+]
